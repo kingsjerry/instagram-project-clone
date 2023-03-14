@@ -1,0 +1,33 @@
+.global-footer .footer-main li {
+    margin: 6px 18px 0 0;
+
+}
+
+.global-footer ul li a {
+    text-decoration: none;
+}
+
+.global-footer ul li {
+    display: inline-block;
+}
+
+.footer-main {
+    font-size: 12px;
+}
+
+.global-footer .footer-main a {
+    color: rgb(142, 142, 142);
+}
+
+.form-select,
+.a1 {
+    display: inline-block;
+    color: rgb(142, 142, 142);
+    font-size: 12px;
+    
+   
+}
+.form-select{
+    width: 110px;
+    border: none;
+ }
