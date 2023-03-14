@@ -1,0 +1,55 @@
+.instaclone-formstyle{
+    max-width: 400px;
+    text-align: center;
+
+}
+.inputstyler{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.inputstyler1{
+    margin-bottom: 5px;
+    color: rgb(38, 38, 38);
+    font-size: small;
+    padding: 9px 8px 7px;
+}
+
+.instaclone-formwraper{
+    border: 1px solid rgb(219, 219, 219);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+    margin-top: 50px;
+    
+}
+.insta-logo{
+    max-width: 175px;
+}
+
+.line-break{
+    border: 0.5px solid rgb(219, 219, 219);
+    width: 350px;
+    height: 0px;
+    margin-top: 10px;
+    
+    
+
+}
+.linewrapper{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 0px;
+    margin-bottom: 35px;
+        
+}
+.linewrapper span{
+    margin: 0 2rem 0 2rem ;
+}
+.faceboo-link{
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #385185;
+}
